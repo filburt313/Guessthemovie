@@ -256,6 +256,4 @@ btnNew.addEventListener('click', function () {
   }
 });
 
-function nuevomsj() {
-  console.log('ASDASDA');
-}
+console.log('Ultimo commit 5:45');
