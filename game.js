@@ -134,7 +134,7 @@ const buttonsInfo = function () {
   }
 };
 
-// Add the score to the current player
+//Add the score to the current player
 function addScore() {
   scores[activePlayer] += 1;
   document.getElementById(`score--${activePlayer}`).textContent =
