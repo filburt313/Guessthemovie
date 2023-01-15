@@ -255,5 +255,3 @@ btnNew.addEventListener('click', function () {
     };
   }
 });
-
-console.log('Ultimo commit 5:45');
