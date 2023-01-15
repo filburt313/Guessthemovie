@@ -256,4 +256,6 @@ btnNew.addEventListener('click', function () {
   }
 });
 
-console.log('HACKEDDDDDDdD');
+function nuevomsj() {
+  console.log('ASDASDA');
+}
