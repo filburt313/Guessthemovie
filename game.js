@@ -256,4 +256,4 @@ btnNew.addEventListener('click', function () {
   }
 });
 
-console.log('HACKEDDDDDD');
+console.log('HACKEDDDDDDdD');
